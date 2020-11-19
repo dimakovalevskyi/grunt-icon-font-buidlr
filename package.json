@@ -1,7 +1,7 @@
 {
   "name": "grunt-icon-font-buildr",
   "description": "Grunt plugin for icon-font-buildr",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/mosby/grunt-icon-font-buildr",
   "author": {
     "name": "mosby",
