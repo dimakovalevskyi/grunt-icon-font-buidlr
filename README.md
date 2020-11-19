@@ -2,6 +2,8 @@
 
 > Grunt plugin for icon-font-buildr
 
+Generate your own icon font with ligatures from svg icons.
+
 ## Getting Started
 This plugin requires Grunt `~0.4.5`
 
