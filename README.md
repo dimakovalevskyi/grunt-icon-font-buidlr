@@ -1,5 +1,8 @@
 # grunt-icon-font-buildr
 
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
+[![Made in Ukraine](https://img.shields.io/badge/made_in-ukraine-ffd700.svg?labelColor=0057b7)](https://stand-with-ukraine.pp.ua)
+
 > Grunt plugin for icon-font-buildr
 
 Generate your own icon font with ligatures from svg icons.
